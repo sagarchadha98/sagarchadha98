@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey Visitor 👋
+I have done PGDM in Analytics,I am interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
+Currently I am looking for a some roles related to Data science. 
+
+- 🔭 I’m currently Learning NLP
+- 📫 How to reach me: [LinkedIn - Sagar Chadha](https://www.linkedin.com/in/sagar-chadha/)
+
 
 <!--
 **sagarchadha98/sagarchadha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
