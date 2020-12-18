@@ -1,5 +1,5 @@
 ### Hey Visitor 👋
-I have done PGDM in Analytics,I am interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
+PGDM in Analytics! A zeal to make a winning career in growing field of Data Science.
 Currently I am looking for a some roles related to Data science. 
 
 - 🔭 I’m currently Learning NLP
